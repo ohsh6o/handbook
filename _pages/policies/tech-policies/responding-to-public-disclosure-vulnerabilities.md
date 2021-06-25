@@ -1,8 +1,13 @@
 ---
 title: Public disclosures of vulnerabilities
 questions:
+  - bug-bounty
   - vuln-disclosure
 ---
+
+_For reporting vulnerabilities, submit your report through the [TTS Bug Bounty Program](https://hackerone.com/tts)._
+
+_For programs managing vulnerability reports, see the [bug bounty guide]({% link bug-bounty.md %})._
 
 When someone in the public alerts TTS to a potential vulnerability in our systems, we need to act quickly.
 
