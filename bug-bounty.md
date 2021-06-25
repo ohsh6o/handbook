@@ -8,7 +8,6 @@ questions:
 TTS administers a [Bug Bounty Program](https://hackerone.com/tts) for the public
 to report vulnerabilities in TTS systems.
 
-
 ## Adding a team member to the Bug Bounty program
 
 Any administration requests can be made in [#bug-bounty](https://gsa-tts.slack.com/archives/C0X2FMJ86). Please include:
